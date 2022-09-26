@@ -1,7 +1,6 @@
 package br.inatel.cdg.compras;
 
 public abstract class CarrinhoDeCompras {
-	
 	//Composicao com instancia de Frete
 	protected Frete frete;
 
